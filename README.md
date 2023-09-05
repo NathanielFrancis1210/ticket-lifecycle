@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Creating a ticket as a end user.
 - Observing the ticket for resolution.
-- Assigning a ticket to a agent.
+- Resolved tickets.
   
 
 <h2>Lifecycle Stages</h2>
@@ -46,9 +46,9 @@ Analyzing the problem thoroughly, exploring potential solutions, and determining
 <br />
 
 <p>
-<img src="https://i.imgur.com/kMJkXRM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mUQ9EIs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Giving a task to a specific support agent with the responsibility of addressing and resolving this ticket.
+I've managed to address and complete all the tickets.
 </p>
 <br />
